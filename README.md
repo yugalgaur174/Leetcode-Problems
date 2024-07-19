@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
