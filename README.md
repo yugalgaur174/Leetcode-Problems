@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
