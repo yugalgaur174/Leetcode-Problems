@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
