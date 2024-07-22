@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2472-build-a-matrix-with-conditions) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
