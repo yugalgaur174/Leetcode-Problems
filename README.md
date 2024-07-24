@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1333-sort-the-jumbled-numbers) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
