@@ -4,8 +4,7 @@ public:
         int n=0;
         for(int i=0;i<details.size();i++){
             int a=stoi(details[i].substr(11,2));
-            int c=a;
-            if(c>60){
+            if(a>60){
                 n++;
             }
         }
