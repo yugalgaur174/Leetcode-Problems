@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
