@@ -3,13 +3,13 @@ public:
     bool isValid(string s) {
         stack<char> st;
         for(int i=0;i<s.size();i++){
-            if(s[i]=='(') st.push('a');
-            else if(s[i]=='[') st.push('b');
-            else if(s[i]=='{') st.push('c');
+            if(s[i]=='(') st.push(s[i]);
+            else if(s[i]=='[') st.push(s[i]);
+            else if(s[i]=='{') st.push(s[i]);
             else if(s[i]==')'){
                 if(st.size()==0) return false;
 
-                else if(st.top()=='a'){
+                else if(st.top()=='('){
                     st.pop();
                 }
                 else{
@@ -18,7 +18,7 @@ public:
             }
             else if(s[i]==']'){
                 if(st.size()==0) return false;
-                else if(st.top()=='b'){
+                else if(st.top()=='['){
                     st.pop();
                 }
                 else{
@@ -28,7 +28,7 @@ public:
             else if(s[i]=='}'){
                 if(st.size()==0) return false;
 
-                else if(st.top()=='c'){
+                else if(st.top()=='{'){
                     st.pop();
                 }
                 else{
