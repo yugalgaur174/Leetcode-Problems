@@ -1,6 +1,7 @@
 class MyStack {
 private:
-        stack<int> myStack;
+        // stack<int> myStack;
+        queue<int> q1,q2;
 public:
     MyStack() {
     }
@@ -8,22 +9,27 @@ public:
     void push(int x) {
 
         // int s=myStack.size();
-        myStack.push(x);
+        q2.push(x);
+        while(!q1.empty()){
+            q2.push(q1.front());
+            q1.pop();
+        }
+        swap(q1,q2);
     }
     
     int pop() {
         //  return myStack.pop();
-        int topElement=myStack.top();
-        myStack.pop();
+        int topElement=q1.front();
+        q1.pop();
         return topElement;
     }
     
     int top() {
-        return myStack.top();
+        return q1.front();
     }
     
     bool empty() {
-        return myStack.empty();
+        return q1.empty();
     }
 };
 
