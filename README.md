@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Graph
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
