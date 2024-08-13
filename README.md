@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
