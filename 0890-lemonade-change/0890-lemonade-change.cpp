@@ -22,7 +22,7 @@ public:
                     b--;
                     a--;
                 }
-                else if(a>2 && b==0){
+                else if(a>2){
                     a--;
                     a--;
                     a--;
