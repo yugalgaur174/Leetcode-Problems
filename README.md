@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Graph
 |  |
@@ -294,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
