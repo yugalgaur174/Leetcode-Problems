@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 ## Bit Manipulation
