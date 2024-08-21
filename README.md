@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 ## Graph
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
