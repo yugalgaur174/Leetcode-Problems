@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
+| [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
@@ -327,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
