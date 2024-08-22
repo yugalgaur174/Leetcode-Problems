@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
