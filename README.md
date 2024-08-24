@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
