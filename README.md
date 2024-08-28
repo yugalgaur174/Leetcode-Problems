@@ -367,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
