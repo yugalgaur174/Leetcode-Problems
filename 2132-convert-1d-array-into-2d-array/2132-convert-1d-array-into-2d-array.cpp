@@ -6,18 +6,14 @@ public:
             return {};
         }
         
-        else{
-            int k=0;
-        int j=0;
+        
+            
             for(int i=0;i<m*n;i++){
-                if(k==n) {
-                    j++ ; k=0;
                 
-                }
-                arr[j][k]=original[i];
-                k++;
+                arr[i/n][i%n]=original[i];
+                
             }
-        }
+        
         return arr;
     }
 };
