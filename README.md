@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
