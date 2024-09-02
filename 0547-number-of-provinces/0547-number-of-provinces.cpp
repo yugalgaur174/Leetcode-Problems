@@ -16,7 +16,7 @@ public:
         vector<int> visited(n,0);
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1 && i!=j)mpp[i].push_back(j);
+                if(isConnected[i][j]==1 && i!=j){mpp[i].push_back(j); mpp[j].push_back(i);}
             }
         }
         for(int i=0;i<isConnected.size();i++){
