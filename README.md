@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Design
 |  |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
