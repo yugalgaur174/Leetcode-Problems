@@ -14,20 +14,18 @@ public:
     vector<string> arr;
     void preorder(TreeNode* node,string a){
         if(node==nullptr) return ;
-        a=a+"->"+to_string(node->val);
+        a=a+to_string(node->val);
         if(node->left==nullptr &&node->right==nullptr) arr.push_back(a);
+        a=a+"->";
         preorder(node->left,a);
         preorder(node->right,a);
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         if(root==nullptr) return arr;
-        string a=to_string(root->val);
-        if(root->left==nullptr&&root->right==nullptr) {
-        arr.push_back(a);
-            return arr;
-        }
-        preorder(root->left,a);
-        preorder(root->right,a);
+        // string a=to_string(root->val);
+        
+        preorder(root,"");
+        // preorder(root->right,a);
         return arr;
     }
 };
