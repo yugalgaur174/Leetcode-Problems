@@ -27,23 +27,20 @@ vector<TreeNode*> a;
         if(node==nullptr) return;
         if(node->val==head->val) {
             a.push_back(node);
-            // return;
         }
         preorder(node->left,head);
         preorder(node->right,head);
 
     }
     bool preordercheck(TreeNode* node,ListNode* head){
-        if(node==nullptr && head==nullptr) return true;
+        if(head==nullptr) return true;
         if(node==nullptr && head!=nullptr) return false;
-        if(node!=nullptr && head==nullptr) return true;
         if(node->val!=head->val) return false;
         return preordercheck(node->left,head->next) || preordercheck(node->right,head->next);
     }
     bool isSubPath(ListNode* head, TreeNode* root) {
-        if(head==nullptr && root!=nullptr) return true;
+        if(head==nullptr) return true;
         if(head!=nullptr && root==nullptr) return false;
-        if(root==nullptr && head==nullptr) return true;
         preorder(root,head);
         if(a.size()==0)return false;
         for(int i=0;i<a.size();i++){
