@@ -30,7 +30,7 @@ int gcd(int a, int b)
             ListNode* arr=new ListNode(a);
             mover1->next=arr;
             arr->next=mover2;
-            mover1=mover1->next->next;
+            mover1=mover2;
             mover2=mover2->next;
         }
         return head;
