@@ -13,19 +13,39 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        if(root==nullptr) return ;
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* curr=st.top();
-            st.pop();
-            if(curr->right!=nullptr) st.push(curr->right);
-            if(curr->left!=nullptr) st.push(curr->left);
-            if(!st.empty()) curr->right=st.top();
-            curr->left=nullptr;
+        if(root==nullptr) return;
+        TreeNode* curr=root;
+        while(curr!=nullptr){
+            if(curr->left!=nullptr){
+                TreeNode * prev=curr->left;
+                while(prev->right!=nullptr){
+                    prev=prev->right;
+                }
+                prev->right=curr->right;
+                curr->right=curr->left;
+                curr->left=nullptr;
+            }
+            curr=curr->right;
         }
     }
 };
+
+// class Solution {
+// public:
+//     void flatten(TreeNode* root) {
+//         if(root==nullptr) return ;
+//         stack<TreeNode*> st;
+//         st.push(root);
+//         while(!st.empty()){
+//             TreeNode* curr=st.top();
+//             st.pop();
+//             if(curr->right!=nullptr) st.push(curr->right);
+//             if(curr->left!=nullptr) st.push(curr->left);
+//             if(!st.empty()) curr->right=st.top();
+//             curr->left=nullptr;
+//         }
+//     }
+// };
 
 // class Solution {
 // public:
