@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 ## Graph
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0564-find-the-closest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
