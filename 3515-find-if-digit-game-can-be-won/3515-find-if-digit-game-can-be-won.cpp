@@ -6,7 +6,6 @@ public:
             if(nums[i]>9) b+=nums[i];
             else a+=nums[i];
         }
-        if(a==b) return false;
-        return true;
+        return a!=b;
     }
 };
