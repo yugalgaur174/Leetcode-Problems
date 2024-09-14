@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
