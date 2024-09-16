@@ -22,8 +22,8 @@ public:
             if(node->val>=low&& node->val<=high){
                 ans+=node->val;
             }
-            if(node->left!=nullptr)q.push(node->left);
-            if(node->right!=nullptr)q.push(node->right);
+            if(node->left!=nullptr&& node->val>low )q.push(node->left);
+            if(node->right!=nullptr&& node->val<high)q.push(node->right);
         }
         return ans;
     }
