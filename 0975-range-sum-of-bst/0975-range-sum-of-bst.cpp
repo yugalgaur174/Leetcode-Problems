@@ -11,20 +11,29 @@
  */
 class Solution {
 public:
+int ans=0;
+    void inorder(TreeNode* node, int low, int high){
+        if(node==nullptr) return ;
+        if(node->val>=low && node->val<=high) ans+=node->val;
+        if(node->val>=low) inorder(node->left,low,high);
+        inorder(node->right,low,high);
+    }
     int rangeSumBST(TreeNode* root, int low, int high) {
         if(root==nullptr) return 0;
-        queue<TreeNode*> q;
-        q.push(root);
-        int ans=0;
-        while(!q.empty()){
-            TreeNode* node=q.front();
-            q.pop();
-            if(node->val>=low&& node->val<=high){
-                ans+=node->val;
-            }
-            if(node->left!=nullptr&& node->val>low )q.push(node->left);
-            if(node->right!=nullptr&& node->val<high)q.push(node->right);
-        }
+        inorder(root,low,high);
+        
+        // queue<TreeNode*> q;
+        // q.push(root);
+        // int ans=0;
+        // while(!q.empty()){
+        //     TreeNode* node=q.front();
+        //     q.pop();
+        //     if(node->val>=low&& node->val<=high){
+        //         ans+=node->val;
+        //     }
+        //     if(node->left!=nullptr )q.push(node->left);
+        //     if(node->right!=nullptr)q.push(node->right);
+        // }
         return ans;
     }
 };
