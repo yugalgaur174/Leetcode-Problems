@@ -12,8 +12,8 @@ public:
         while(sss>> word){
             mpp[word]++;
         }
-        for(auto& word:mpp){
-            if(word.second<2) ans.push_back(word.first);
+        for(auto& [word,no]:mpp){
+            if(no<2) ans.push_back(word);
         }
         return ans;
     }
