@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1435-xor-queries-of-a-subarray) |
