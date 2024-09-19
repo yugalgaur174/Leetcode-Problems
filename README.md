@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2803-modify-graph-edge-weights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2803-modify-graph-edge-weights) |
 ## Bucket Sort
 |  |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Design
 |  |
 | ------- |
