@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0906-walking-robot-simulation) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
