@@ -18,8 +18,8 @@ public:
                 if(!pq.empty()){
                     auto freq=pq.top();
                     pq.pop();
-                    freq.first--;
                     a+=freq.second;
+                    freq.first--;
                     if(freq.first>0)temp.push_back(freq);
                 }
                 else{
@@ -28,9 +28,7 @@ public:
                 }
             }
             for(auto & i:temp){
-                // if(i.first>0){
                 pq.push(i);
-                // }
             }
 
         }
