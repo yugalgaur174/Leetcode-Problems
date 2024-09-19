@@ -8,11 +8,9 @@ public:
         // return boxTypes[1][0]
         int ans=0,i=0;
         while(truckSize>0&& i < boxTypes.size()){
-            while(boxTypes[i][0]>0 && truckSize>0){
-                ans+=boxTypes[i][1];
-                boxTypes[i][0]--;
-                truckSize--;
-            }
+            int box=min(boxTypes[i][0],truckSize);
+            ans+=box*boxTypes[i][1];
+            truckSize-=box;
             i++;
         }
         return ans;
