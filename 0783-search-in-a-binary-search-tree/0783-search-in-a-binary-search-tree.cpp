@@ -13,21 +13,21 @@ class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
         if(root==nullptr) return nullptr;
-        queue<TreeNode*> q;
-        q.push(root);
-        TreeNode* found=nullptr;
-        while(!q.empty()){
-            TreeNode* node=q.front();
-            q.pop();
-            if(node->val==val){
-                found=node;
-                break;
+        TreeNode* mover=root;
+        if(mover->val==val) return mover;
+        while(mover){
+            if(mover->val==val && mover) return mover;
+            if(mover->val>val && mover->left){
+                mover=mover->left;
             }
-            if(node->left!=nullptr) {
-                q.push(node->left);
+            else if(mover->val<val&& mover->right){
+               mover=mover->right;
+
             }
-            if(node->right!=nullptr) q.push(node->right);
+            else{
+                return nullptr;
+            }
         }
-        return found;
+        return root;
     }
 };
