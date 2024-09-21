@@ -1,29 +1,31 @@
 class Solution {
 public:
-    void dfss(unordered_map<int,vector<int>> mpp,int i, vector<int>&visited){
-        visited[i]=1;
-        for(auto it:mpp[i]){
-            if(!visited[it]){
-
-            dfss(mpp,it,visited);
-            }
+void dfs(int node, vector<vector<int>>& adj, vector<int>& vis){
+    vis[node]=1;
+    for(auto &it:adj[node]){
+        if(!vis[it]){
+            dfs(it,adj,vis);
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int cnt=0;
-        unordered_map<int,vector<int>> mpp;
-        int n=isConnected.size();
-        vector<int> visited(n,0);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1 && i!=j){mpp[i].push_back(j); mpp[j].push_back(i);}
+}
+    int findCircleNum(vector<vector<int>>& is) {
+        int n=is.size();
+        vector<vector<int>> adj(n);
+        for(int i=0;i<is.size();i++){
+            for(int j=0;j<is[i].size();j++){
+                if(is[i][j]==1 && i!=j){
+                    adj[i].push_back(j);
+                    // adj[j].push_back(i);
+                }
             }
         }
-        for(int i=0;i<isConnected.size();i++){
-            if(!visited[i]){
+        vector<int> vis(n,0);
+        int start=0;
+        int cnt=0;
+        for(int i=0;i<is.size();i++){
+            if(!vis[i]){
+                dfs(i,adj,vis);
                 cnt++;
-                dfss(mpp,i,visited);
-
             }
         }
         return cnt;
