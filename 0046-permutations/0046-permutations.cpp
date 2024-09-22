@@ -1,28 +1,24 @@
 class Solution {
 public:
-    void findd(vector<int>&nums,vector<vector<int>>& arr, vector<int>& ds, vector<int>&mark){
-        if(ds.size()==nums.size()){
-            arr.push_back(ds);
+    void findd(int i,vector<int>& nums,vector<vector<int>> &ans, vector<int> &ds){
+        if(i==nums.size()){
+            ans.push_back(ds);
             return;
         }
-        for(int i=0;i<nums.size();i++){
-            if(!mark[i]){
-                ds.push_back(nums[i]);
-                mark[i]=1;
-                findd(nums,arr,ds,mark);
-                mark[i]=0;
-                ds.pop_back();
-
-            }
+        for(int j=i;j<nums.size();j++){
+            swap(nums[j],nums[i]);
+            ds.push_back(nums[i]);
+            findd(i+1,nums,ans,ds);
+            ds.pop_back();
+            swap(nums[j],nums[i]);
         }
+        
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> arr;
-        // unordered_map
-        vector<int> ds;
-        vector<int> mark(nums.size(), 0);
-        
-        findd(nums,arr,ds,mark);
-        return arr;
+        vector<vector<int>> ans;
+        vector<int>ds;
+        int i=0;
+        findd(i,nums,ans,ds);
+        return ans;
     }
 };
