@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
+| [1585-the-kth-factor-of-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
