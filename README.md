@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0046-permutations) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
