@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0046-permutations) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
