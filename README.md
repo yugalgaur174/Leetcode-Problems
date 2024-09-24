@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
