@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
