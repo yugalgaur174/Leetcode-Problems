@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
