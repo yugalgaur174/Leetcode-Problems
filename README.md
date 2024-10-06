@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2494-sum-of-prefix-scores-of-strings) |
