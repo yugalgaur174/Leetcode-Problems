@@ -30,11 +30,12 @@ public:
         tile(node->left);
         tile(node->right);
         node->val=abs(left-right);
+        ans+=node->val;
     }
 
     int findTilt(TreeNode* root) {
         tile(root);
-        sum(root);
+        // sum(root);
         return ans;
     }
 };
