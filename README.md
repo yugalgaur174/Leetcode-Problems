@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2384-root-equals-sum-of-children](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2384-root-equals-sum-of-children](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
 |  |
 | ------- |
