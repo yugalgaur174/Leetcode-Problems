@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1829-maximum-units-on-a-truck) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2502-sort-the-people) |
