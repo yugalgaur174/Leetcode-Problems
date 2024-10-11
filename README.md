@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1435-xor-queries-of-a-subarray) |
