@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1829-maximum-units-on-a-truck) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
