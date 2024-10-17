@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
