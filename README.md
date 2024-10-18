@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0257-binary-tree-paths) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
