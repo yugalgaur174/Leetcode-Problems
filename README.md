@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
