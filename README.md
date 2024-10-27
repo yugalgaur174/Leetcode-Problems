@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 | [1585-the-kth-factor-of-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
