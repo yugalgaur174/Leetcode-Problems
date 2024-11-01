@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0214-shortest-palindrome) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0055-jump-game) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0046-permutations) |
