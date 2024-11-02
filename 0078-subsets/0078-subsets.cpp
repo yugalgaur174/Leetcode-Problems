@@ -1,28 +1,24 @@
 class Solution {
 public:
-    void printF(int ind, vector<int>& ds, vector<int>& nums,int n,vector<vector<int>>& a){
-        if(ind==n){
-            if(count(a.begin(),a.end(),ds)==0){
-                a.push_back(ds);
-                if(ds.size()==0 && count(a.begin(),a.end(),ds)==0){
-                    a.push_back(ds);
-                }
-            }
+    set<vector<int>> arr;
+    void check(vector<int>& a, int n, vector<vector<int>> & ans, int i, vector<int> nums){
+        if(i==n){
+            arr.insert(a);
             return;
         }
-        ds.push_back(nums[ind]);
-        printF(ind+1,ds,nums,n,a);
-        ds.pop_back();
-        printF(ind+1,ds,nums,n,a);
-
+        a.push_back(nums[i]);
+        check(a,n,ans,i+1,nums);
+        a.pop_back();
+        check(a,n,ans,i+1,nums);
     }
-
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> ds;
-        int ind;
+        vector<vector<int> > ans;
+        vector<int> a;
         int n=nums.size();
-        vector<vector<int>> a;
-        printF(ind,  ds, nums,n,a);
-        return a;
+        check(a,n,ans,0,nums);
+        for(auto &it:arr){
+            ans.push_back(it);
+        }
+        return ans;
     }
 };
