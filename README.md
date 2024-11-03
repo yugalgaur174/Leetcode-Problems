@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1197-parsing-a-boolean-expression) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
