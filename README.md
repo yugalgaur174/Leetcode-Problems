@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0564-find-the-closest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
+| [0606-construct-string-from-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
