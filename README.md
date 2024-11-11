@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
