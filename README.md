@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1829-maximum-units-on-a-truck) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
