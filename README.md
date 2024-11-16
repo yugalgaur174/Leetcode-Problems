@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Iterator
 |  |
