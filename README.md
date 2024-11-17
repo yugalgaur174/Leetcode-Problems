@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -875,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Union Find
 |  |
 | ------- |
@@ -935,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0724-find-pivot-index](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1027,4 +1033,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0432-all-oone-data-structure) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
