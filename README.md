@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2089-maximum-matrix-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2411-spiral-matrix-iv) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1829-maximum-units-on-a-truck) |
+| [2089-maximum-matrix-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
