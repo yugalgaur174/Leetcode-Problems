@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0214-shortest-palindrome) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0213-house-robber-ii) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
