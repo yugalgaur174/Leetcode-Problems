@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1435-xor-queries-of-a-subarray) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1917-maximum-average-pass-ratio](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2164-two-best-non-overlapping-events) |
