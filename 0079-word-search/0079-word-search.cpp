@@ -6,10 +6,10 @@ public:
             ans=true;
             return ;
         }
-        if(i<0 || j>board[0].size()-1 || j<0 || i>board.size()-1 )return;
-        if(board[i][j]=='#')return;
+        if(i<0 || j>board[0].size()-1 || j<0 || i>board.size()-1 ||board[i][j]=='#' || word[index]!=board[i][j])return;
+        
         char temp=board[i][j];
-        if(word[index]!=board[i][j])return;
+        
         a+=word[index];
         // cout<<word[index];
         board[i][j]='#';
