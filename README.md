@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0257-binary-tree-paths) |
