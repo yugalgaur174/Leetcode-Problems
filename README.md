@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0539-minimum-time-difference) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
