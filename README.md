@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0162-find-peak-element) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
