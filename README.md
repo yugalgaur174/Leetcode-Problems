@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1063-best-sightseeing-pair) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1240-stone-game-ii) |
