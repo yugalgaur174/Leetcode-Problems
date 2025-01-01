@@ -1,15 +1,13 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int zero=0;
+        // int zero=0;
         int one=0;
         for(int i=0;i<s.size();i++){
             if(s[i]=='1'){
                 one++;
             }
-            else{
-                zero++;
-            }
+            
         }
         // if(zero==s.size() || one==s.size())return s.size()-1;
         int z=0;
