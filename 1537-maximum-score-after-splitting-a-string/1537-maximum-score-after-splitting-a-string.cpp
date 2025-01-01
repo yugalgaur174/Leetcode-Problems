@@ -11,7 +11,7 @@ public:
                 zero++;
             }
         }
-        if(zero==s.size() || one==s.size())return s.size()-1;
+        // if(zero==s.size() || one==s.size())return s.size()-1;
         int z=0;
         int ans=0;
         for(int i=0;i<s.size()-1;i++){
