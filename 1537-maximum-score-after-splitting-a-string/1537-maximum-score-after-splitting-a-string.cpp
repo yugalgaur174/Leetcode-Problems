@@ -19,7 +19,7 @@ public:
             if(s[i]=='1'){
                 one--;
             }
-            cout<<z<<" "<<one<<endl;
+            // cout<<z<<" "<<one<<endl;
             ans=max(ans,z+one);
         }
         return ans;
