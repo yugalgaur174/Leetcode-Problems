@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0906-walking-robot-simulation) |
