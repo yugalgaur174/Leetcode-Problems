@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0141-linked-list-cycle) |
