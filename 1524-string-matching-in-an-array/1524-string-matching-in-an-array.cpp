@@ -39,11 +39,16 @@ bool check(string a, string b, int j) {
         for(int i=0;i<words.size();i++){
             for(int j=0;j<words.size();j++){
                 if(i==j)continue;
-                int a=strStr(words[j],words[i]);
-                if(a!=-1){
-                    ans.push_back(words[i]);
-                    break;
-                }
+                // int a=strStr(words[j],words[i]);
+                // if(a!=-1){
+                //     ans.push_back(words[i]);
+                //     break;
+                // }
+                auto found = words[j].find(words[i]);
+                   if (found != -1) {
+                       ans.push_back(words[i]);
+                       break;
+                   }
             }
         }
         return ans;
