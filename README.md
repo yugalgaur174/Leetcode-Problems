@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2509-minimize-xor](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
