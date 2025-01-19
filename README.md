@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
