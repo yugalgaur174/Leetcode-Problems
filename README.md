@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
 | ------- |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Design
 |  |
 | ------- |
