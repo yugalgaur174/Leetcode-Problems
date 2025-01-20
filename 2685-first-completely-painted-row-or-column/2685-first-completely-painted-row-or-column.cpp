@@ -12,7 +12,7 @@ public:
         for(int i=0;i<arr.size();i++){
             col[mark[arr[i]].first]++;
             row[mark[arr[i]].second]++;
-            cout<<arr[i]<<" "<<mark[arr[i]].first<<" "<<mark[arr[i]].second<<endl;
+            // cout<<arr[i]<<" "<<mark[arr[i]].first<<" "<<mark[arr[i]].second<<endl;
             if(col[mark[arr[i]].first]==mat[0].size() || row[mark[arr[i]].second]==mat.size()){
                 return i;
             }
