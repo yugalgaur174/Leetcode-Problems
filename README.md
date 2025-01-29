@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
