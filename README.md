@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
@@ -1114,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2035-count-sub-islands) |
