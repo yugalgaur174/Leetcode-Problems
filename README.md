@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Design
 |  |
