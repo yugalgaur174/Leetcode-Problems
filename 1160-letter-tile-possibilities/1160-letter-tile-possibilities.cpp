@@ -2,7 +2,7 @@ class Solution {
 public:
     set<string> st;
      void finding(unordered_map<char, int>& mpp, string s, int n) {
-        if (!s.empty())  // Avoid inserting empty string
+        if (!s.empty()) 
             st.insert(s);
 
         for (auto& it : mpp) { 
