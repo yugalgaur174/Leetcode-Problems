@@ -3,9 +3,9 @@ public:
     string ans = "";
 
     void findSmallest(string& s, string& pattern, bool used[10]) {
-        if (!ans.empty()) return; // Stop early if answer is found
+        if (!ans.empty()) return; 
 
-        if (s.size() == pattern.size() + 1) { // Base case: Valid number is formed
+        if (s.size() == pattern.size() + 1) { 
             ans = s;
             return;
         }
