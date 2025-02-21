@@ -1,43 +1,39 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class FindElements {
 public:
-    TreeNode* myroot;
+    TreeNode* tree;
     
-    TreeNode* _FindElements(TreeNode* node, int v){
-        //preorder
-        node->val = v;
-        if(node->left) _FindElements(node->left, v*2+1);
-        if(node->right) _FindElements(node->right, v*2+2);
-        return node;
-    };
+    void setting(TreeNode* node){
+        if(node->left){
+            node->left->val = node->val * 2 + 1;
+            setting(node->left);
+        }
+        if(node->right){
+            node->right->val = node->val * 2 + 2;
+            setting(node->right);
+        }
+    }
     
     FindElements(TreeNode* root) {
-        myroot = _FindElements(root, 0);
+        root->val = 0;
+        setting(root);
+        tree = root;  
     }
     
-    bool _find(int target, TreeNode* node){
-        //preorder traversal
-        if(target == node->val) return true;
-        bool found = false;
-        //if find in one of its children, then that's found
-        if(node->left) found = found | _find(target, node->left);
-        if(node->right) found = found | _find(target, node->right);
-        return found;
-    }
+    bool ans;
     
+    void finding(TreeNode* t, int target){
+        if(t == nullptr) return;
+        if(t->val == target){
+            ans = true;
+            return; 
+        }
+        finding(t->left, target);
+        finding(t->right, target);
+    }
+
     bool find(int target) {
-        if(!myroot) return false;
-        //traverse the whole tree
-        return _find(target, myroot);
+        ans = false;  
+        finding(tree, target);
+        return ans;
     }
 };
