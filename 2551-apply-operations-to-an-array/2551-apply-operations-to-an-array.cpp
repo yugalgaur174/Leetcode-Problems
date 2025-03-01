@@ -4,8 +4,7 @@ public:
         for(int i=0;i<nums.size()-1;i++){
             if(nums[i]==nums[i+1] ){
                 nums[i]*=2;
-                nums.push_back(0);
-                nums.erase(nums.begin()+i+1);
+                nums[i+1]=0;
             }
                 cout<<"nums[i] ="<<nums[i]<<endl;
             
