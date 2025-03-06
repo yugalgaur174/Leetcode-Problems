@@ -6,11 +6,11 @@ public:
         int n=grid.size();
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(mpp[grid[i][j]]==1){
-                    ans.push_back(grid[i][j]);
+                if(mpp[grid[i][j]]==0){
+                    mpp[grid[i][j]]++;
                 }
                 else{
-                    mpp[grid[i][j]]++;
+                    ans.push_back(grid[i][j]);
                 }
             }
         }
