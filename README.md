@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0876-hand-of-straights) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0606-construct-string-from-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
