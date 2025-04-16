@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
