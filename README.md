@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 ## Counting
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0778-reorganize-string) |
@@ -943,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
@@ -973,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -1365,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
