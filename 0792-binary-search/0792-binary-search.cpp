@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int ans=-1;
-    void findd(int high, int low, int target, vector<int> & nums){
-        if(low>high) return;
-        int mid=(low+high)/2;
-        if(nums[mid]==target){
-            ans=mid;
-            return;
+    int find(int start, int end, int target, vector<int> nums){
+        if(start==end){
+            if(nums[start]==target)return start;
+            else return -1;
         }
-        else if(nums[mid]>target){
-            findd(mid-1,low,target,nums);
+        int m=(start+end)/2;
+        int ans=-1;
+        if(nums[m]==target)return m;
+        else if(nums[m]>target){
+             ans=find(start, m, target, nums);
         }
-        else{
-            findd(high,mid+1,target, nums);
-        }
+        else ans=find(m+1, end, target, nums);
+        return ans;
     }
     int search(vector<int>& nums, int target) {
-        int low=0;
-        int high=nums.size()-1;
-        if(nums[low])
-        findd(high,low,target,nums);
-        return ans;
+        return find(0,nums.size()-1,target,nums);
     }
 };
