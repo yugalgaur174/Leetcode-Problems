@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int ans=-1;
-    void findd(int low,int high, vector<int> nums, int target){
-        if(low>high) return ;
-        int mid=(low+high)/2;
-        if(nums[mid]<target){
-            ans=mid;
-            findd(mid+1,high,nums,target);
-        }
-        else{
-            findd(low,mid-1,nums,target);
-        }
-    }
+    
     int searchInsert(vector<int>& nums, int target) {
-        int low=0;
-        int high=nums.size()-1;
-        findd(low, high,nums,target);
-        return ans+1;
+        int l=0,h=nums.size()-1;
+        int ans=nums.size();
+        while(l<=h){
+            int m=(l+h)/2;
+            
+            if(nums[m]>=target){
+                cout<<ans<<endl;
+                ans=m;
+                h=m-1;
+            }
+            else if(nums[m]<target){
+                l=m+1;
+            }
+        }
+        return ans;
     }
 };
