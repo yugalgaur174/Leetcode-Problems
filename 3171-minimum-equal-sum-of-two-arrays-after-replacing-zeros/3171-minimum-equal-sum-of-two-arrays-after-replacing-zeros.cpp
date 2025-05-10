@@ -17,20 +17,20 @@ public:
         // cout<<"z1"<<z1<<" z2"<<z2<<endl;
         if(z1==0 && sum1<sum2+z2)return -1;
         if(z2==0 && sum2<sum1+z1) return -1;
-        if(z1!=0 && z2!=0){
+        // if(z1!=0 && z2!=0){
             long long a=sum1+z1;
             long long b=sum2+z2;
             // cout<<"a"<<a<<" "<<"b"<<b<<endl;
             return max(a,b );
-        }
-        else if(z1==0){
-            return sum1;
-        }
-        else if(z2==0){
-            return sum2;
-        }
-        else {
-            return -1;
-        }
+        // }
+        // else if(z1==0){
+        //     return sum1;
+        // }
+        // else if(z2==0){
+        //     return sum2;
+        // }
+        // else {
+        //     return -1;
+        // }
     }
 };
