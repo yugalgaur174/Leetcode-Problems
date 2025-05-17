@@ -3,17 +3,34 @@ public:
     void sortColors(vector<int>& nums) {
         // sort(nums.begin(),nums.end());
         int n=nums.size();
-        for(int i=1;i<n;i++){
-            int j=i-1;
-            int x=nums[i];
-            while(j>=0&&nums[j]>x ){
-                nums[j+1]=nums[j];
-                j--;
+        int a=0;
+        int b=0;
+        int c=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                a++;
             }
-            nums[j+1]=x;
+            else if(nums[i]==1){
+                b++;
+            }
+            else {
+                c++;
+            }
         }
         for(int i=0;i<nums.size();i++){
-            cout<<nums[i];
+            if(a>0){
+                nums[i]=0;
+                a--;
+            }
+            else if(b>0){
+                nums[i]=1;
+                b--;
+            }
+            else{
+                nums[i]=2;
+                c--;
+            }
         }
+        
     }
 };
