@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
@@ -1358,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
 ## Game Theory
 |  |
 | ------- |
