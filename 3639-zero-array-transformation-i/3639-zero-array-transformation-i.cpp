@@ -4,19 +4,39 @@ public:
         vector<int> mark(nums.size(),0);
         for(int i=0;i<queries.size();i++){
             int l=queries[i][0];
-            int r=queries[i][1];
+            int h=queries[i][1];
             mark[l]+=1;
-            if(r<mark.size()-1){
-                mark[r+1]-=1;
+            if(h<mark.size()-1){
+                mark[h+1]-=1;
             }
         }
-        for(int i=1;i<nums.size();i++){
-            mark[i]+=mark[i-1];
+        for(int i=0;i<nums.size()-1;i++){
+            mark[i+1]+=mark[i];
         }
         for(int i=0;i<nums.size();i++){
             nums[i]-=mark[i];
-            if(nums[i]>0)return false;
+            if(nums[i]>0){
+                return false;
+            }
         }
         return true;
+
+        // vector<int> mark(nums.size(),0);
+        // for(int i=0;i<queries.size();i++){
+        //     int l=queries[i][0];
+        //     int r=queries[i][1];
+        //     mark[l]+=1;
+        //     if(r<mark.size()-1){
+        //         mark[r+1]-=1;
+        //     }
+        // }
+        // for(int i=1;i<nums.size();i++){
+        //     mark[i]+=mark[i-1];
+        // }
+        // for(int i=0;i<nums.size();i++){
+        //     nums[i]-=mark[i];
+        //     if(nums[i]>0)return false;
+        // }
+        // return true;
     }
 };
