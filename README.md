@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
 | ------- |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2803-modify-graph-edge-weights](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1363,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
