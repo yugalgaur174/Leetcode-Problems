@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0053-maximum-subarray) |
