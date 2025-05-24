@@ -2,18 +2,14 @@ class Solution {
 public:
     string frequencySort(string s) {
         unordered_map<char, int> freq_map;
-        
-        // Build frequency map
         for (char c : s) {
             freq_map[c]++;
         }
-
-        // Sort the string using the frequency map
         sort(s.begin(), s.end(), [&](char a, char b) {
-            if (freq_map[a] == freq_map[b]) {
-                return a < b; // Lexicographical order if frequencies are the same
+            if(freq_map[a]==freq_map[b]){
+                return a<b;
             }
-            return freq_map[a] > freq_map[b]; // Sort by frequency in descending order
+            return freq_map[a] > freq_map[b];
         });
 
         return s;
