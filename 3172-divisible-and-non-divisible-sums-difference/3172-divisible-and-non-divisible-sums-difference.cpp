@@ -6,11 +6,9 @@ public:
         num1=0;
         for(int i=0;i<k;i++){
             num1+=(i+1)*m;
-            cout<<num1<<endl;
         }
         int num2=(n*(n+1))/2;
         num2-=num1;
-        cout<<num2<<" "<<num1;
         return num2-num1; 
 
     }
