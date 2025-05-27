@@ -1205,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
