@@ -1,42 +1,52 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        queue<pair<pair<int,int>,int>> q;
-        int vis[n][m];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.push({{i,j},0});
-                    vis[i][j]=2;
-                }
-                else{
-                    vis[i][j]=0;
+        queue<pair<int, int>> q;
+        vector<int> row = {0, -1, 0, 1 };
+        vector<int> col = { 1, 0, -1, 0 };
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid[0].size(); j++) {
+                if (grid[i][j] == 2) {
+                    q.push(make_pair(i, j));
                 }
             }
         }
-        int time=0;
-        int drow[]={-1,0,1,0};
-        int dcol[]={0,1,0,-1};
-        while(!q.empty()){
-            int r=q.front().first.first;
-            int c=q.front().first.second;
-            int t=q.front().second;
-            time=max(t,time);
-            q.pop();
-            for(int i=0;i<4;i++){
-                int nrow=r+drow[i];
-                int ncol=c+dcol[i];
-                if(nrow>=0 && ncol>=0 && ncol<m&& nrow<n && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                    q.push({{nrow,ncol},t+1});
-                    vis[nrow][ncol]=2;
+        int time = 0;
+        while (!q.empty()) {
+            int n=q.size();
+            bool rotten=false;
+            for (int j = 0; j < n; j++) {
+                auto a = q.front();
+                q.pop();
+                int b = a.first;
+                int c = a.second;
+                for (int i = 0; i < 4; i++) {
+                    int d = b + row[i];
+                    int e = c + col[i];
+                    if (d < 0 || e < 0 || d >= grid.size() ||
+                        e >= grid[0].size()) {
+                        continue;
+                    } else {
+                        if (grid[d][e] == 1) {
+                            grid[d][e]=2;
+                            q.push(make_pair(d,e));
+                            rotten=true;
+                        }
+                    }
                 }
             }
+            if(rotten){
+            time++;
+            }
+            else{
+                break;
+            }
         }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(vis[i][j]!=2 && grid[i][j]==1)return -1;
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid[0].size(); j++) {
+                if (grid[i][j] == 1) {
+                    return -1;
+                }
             }
         }
         return time;
