@@ -1215,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [3199-distribute-candies-among-children-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1474,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3201-distribute-candies-among-children-ii) |
 ## Iterator
 |  |
 | ------- |
