@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0854-making-a-large-island) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
@@ -1109,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
