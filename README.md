@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0162-find-peak-element) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0621-task-scheduler) |
