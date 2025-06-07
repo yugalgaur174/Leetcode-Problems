@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0684-redundant-connection) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1558-course-schedule-iv) |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0404-sum-of-left-leaves) |
