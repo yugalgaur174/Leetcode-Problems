@@ -1,36 +1,36 @@
 class Solution {
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& adj) {
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        vector<vector<int>> adj(graph.size());
+        vector<int> indegree(graph.size(),0);
+        for(int i=0;i<graph.size();i++){
+            for(int j=0;j<graph[i].size();j++){
+                adj[graph[i][j]].push_back(i);
+                indegree[i]++;
+            }
+        }
+        queue<int> q;
+        for(int i=0;i<graph.size();i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
+        }
+        while(!q.empty()){
+            int a=q.front();
+            q.pop();
+            for(int i=0;i<adj[a].size();i++){
+                int b=adj[a][i];
+                indegree[b]--;
+                if(indegree[b]==0){
+                    q.push(b);
+                }
+            }
+        }
         vector<int> ans;
-        vector<int> check(adj.size(),0);
-        int change=0;
         for(int i=0;i<adj.size();i++){
-            if(adj[i].size()==0){
-                // ans.push_back(i);
-                check[i]=1;
-                change++;
+            if(indegree[i]==0){
+                ans.push_back(i);
             }
-        }
-        while(change>0){
-            change=0;
-            for(int i=0;i<adj.size();i++){
-                if(check[i]) continue;
-                int mark=0;
-                for(int j=0;j<adj[i].size();j++){
-                    if(check[adj[i][j]]==0){
-                        mark=1;
-                        break;
-                    }
-                }
-                if(mark==0){
-                    check[i]=1;
-                    // ans.push_back(i);
-                    change++;
-                }
-            }
-        }
-        for(int i=0;i<adj.size();i++){
-            if(check[i]) ans.push_back(i);
         }
         return ans;
     }
