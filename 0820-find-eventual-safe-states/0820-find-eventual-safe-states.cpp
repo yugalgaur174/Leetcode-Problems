@@ -1,36 +1,36 @@
 class Solution {
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+    vector<int> eventualSafeNodes(vector<vector<int>>& adj) {
         vector<int> ans;
-        vector<bool> check(graph.size(),false);
+        vector<int> check(adj.size(),0);
         int change=0;
-        for(int i=0;i<graph.size();i++){
-            if(graph[i].size()==0){
-                check[i]=true;
+        for(int i=0;i<adj.size();i++){
+            if(adj[i].size()==0){
+                // ans.push_back(i);
+                check[i]=1;
                 change++;
             }
         }
         while(change>0){
             change=0;
-            for(int i=0;i<graph.size();i++){
-                if(check[i])continue;
-                bool yes=false;
-                for(int j=0;j<graph[i].size();j++){
-                    if(check[graph[i][j]]!=true){
-                        yes=true;
+            for(int i=0;i<adj.size();i++){
+                if(check[i]) continue;
+                int mark=0;
+                for(int j=0;j<adj[i].size();j++){
+                    if(check[adj[i][j]]==0){
+                        mark=1;
                         break;
                     }
                 }
-                if(!yes){
-                    check[i]=true;
+                if(mark==0){
+                    check[i]=1;
+                    // ans.push_back(i);
                     change++;
                 }
             }
         }
-        for(int i=0;i<check.size();i++){
-            if(check[i]){
-                ans.push_back(i);
-            }
+        for(int i=0;i<adj.size();i++){
+            if(check[i]) ans.push_back(i);
         }
         return ans;
     }
