@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0859-design-circular-deque) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0273-integer-to-english-words) |
+| [0382-linked-list-random-node](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0382-linked-list-random-node) |
 | [0539-minimum-time-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1576,4 +1578,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2201-valid-arrangement-of-pairs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
