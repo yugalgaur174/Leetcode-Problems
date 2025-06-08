@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1477-product-of-the-last-k-numbers) |
+| [1483-rank-teams-by-votes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1483-rank-teams-by-votes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1483-rank-teams-by-votes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1364-tuple-with-same-product) |
+| [1483-rank-teams-by-votes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1708-design-parking-system](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1708-design-parking-system) |
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1483-rank-teams-by-votes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1524-string-matching-in-an-array) |
