@@ -29,7 +29,6 @@ public:
                     }
                 } else if (word[i] == '!' || word[i] == ',' || word[i] == '.') {
                     if (i == word.size() - 1) {
-                        valid = true;
                     } else {
                         valid = false;
                     break;
