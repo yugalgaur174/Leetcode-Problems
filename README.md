@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
