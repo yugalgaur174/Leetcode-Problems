@@ -45,7 +45,7 @@ public:
                 visited[b]=1;
             }
         }
-        cout<<comp<<" "<<count;
+        // cout<<comp<<" "<<count;
         if(comp-1<=count){
             return comp-1;
         }
