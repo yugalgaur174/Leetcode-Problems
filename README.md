@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0162-find-peak-element) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0231-power-of-two) |
