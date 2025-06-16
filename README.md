@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2163-kth-distinct-string-in-an-array) |
