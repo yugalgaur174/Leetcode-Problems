@@ -1,12 +1,13 @@
 class Solution {
 public:
-    set<vector<int>> ans;
+    vector<vector<int>> ans;
     void making(int i,vector<int> candidates, vector<int>& arr, int target, int curr){
         if(i==candidates.size()){
             return;
         }
         if(curr==target){
-            ans.insert(arr);
+            ans.push_back(arr);
+            return;
         }
         if(curr>target){
             return;
@@ -19,10 +20,6 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int> arr;
         making(0,candidates,arr ,target,0);    
-        vector<vector<int> > aans;
-        for(auto & it: ans){
-            aans.push_back(it);
-        }
-        return aans;
+        return ans;
     }
 };
