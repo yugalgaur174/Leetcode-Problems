@@ -1331,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3515-find-if-digit-game-can-be-won](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3567-convert-date-to-binary) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1604,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Iterator
 |  |
 | ------- |
