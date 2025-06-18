@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1196-filling-bookcase-shelves) |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
