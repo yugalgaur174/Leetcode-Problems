@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0407-trapping-rain-water-ii) |
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0729-my-calendar-i) |
@@ -1474,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yugalgaur174/Leetcode-problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
