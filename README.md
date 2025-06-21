@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
@@ -1074,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/yugalgaur174/Leetcode-problem/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
