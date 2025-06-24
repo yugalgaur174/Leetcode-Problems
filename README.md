@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2358-number-of-ways-to-split-array) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yugalgaur174/Leetcode-problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
